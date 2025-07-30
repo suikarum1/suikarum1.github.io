@@ -7,8 +7,7 @@ It serves as both a thinking tool and a portfolio — a space to journal rigorou
 - Fractals, illusions, and multi-scale perception
 - Consciousness, emergence, and neuroscience
 - Physics-informed models
-- Cryptography, compression, and representation
-- Latent space geometry and signal processing
+- Cryptography, linguistics, and representation
 
 All posts aim to balance intuition and citation — drawing from academic papers, system design, and experimental ideas.  
 Some posts are inspired by daily work in machine learning infrastructure and dynamic modeling, others by long-standing questions in philosophy of mind or symbolic systems.
