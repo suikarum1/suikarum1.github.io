@@ -1,0 +1,6 @@
+baseURL = "https://suikarum1.github.io/"
+languageCode = "en-us"
+title = "Suika's Blog"
+theme = "PaperMod"
+publishDir = "docs"
+
