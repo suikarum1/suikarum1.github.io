@@ -1,5 +1,4 @@
-# suikarum.github.io
-# emergent-notes
+# Suika's Blog
 
 This is a personal, exploratory blog on emergence and complexity.  
 It serves as both a thinking tool and a portfolio — a space to journal rigorous but speculative thoughts that bridge science, math, and machine learning.
@@ -28,6 +27,4 @@ This site is currently in-progress.
 Author and academic affiliations may be added later once posts are finalized.
 
 ---
-
-### 📂 Folder Structure (for contributors or future self)
 
