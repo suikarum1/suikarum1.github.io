@@ -1,5 +1,5 @@
 ---
-title: "Emergence in Visual Illusions and Fractals"
+title: "Fractals and Visual Illusions"
 date: 2025-07-26
 draft: false
 tags: ["neuroscience", "fractals", "perception"]
