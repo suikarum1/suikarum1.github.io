@@ -1,7 +1,7 @@
 # Suika's Blog
 
 This is a personal, exploratory blog on emergence and complexity.  
-It serves as both a thinking tool and a portfolio — a space to journal rigorous but speculative thoughts that bridge science, math, and machine learning.
+It serves as both a thinking tool and a portfolio — a space to journal rigorous but speculative thoughts that bridge neuroscience, physics, and machine learning.
 
 ### Topics I explore include:
 - Fractals, illusions, and multi-scale perception
