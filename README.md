@@ -1,28 +1,25 @@
 # Suika's Blog
 
-This is a personal, exploratory blog on emergence and complexity.  
-It serves as both a thinking tool and a portfolio — a space to journal rigorous but speculative thoughts that bridge neuroscience, physics, and machine learning.
+This is a personal and exploratory blog focused on themes at the intersection of neuroscience, machine learning, and complex systems. It serves both as a thinking tool and as a professional portfolio, showcasing original ideas that bridge computational modeling with emerging questions in neuroscience and physics.
 
-### Topics I explore include:
-- Fractals, illusions, and multi-scale perception
-- Consciousness, emergence, and neuroscience
-- Physics-informed models
-- Cryptography, linguistics, and representation
+### Topics include:
+- Fractals, illusions, and multi-scale visual perception
+- Consciousness, emergence, and computational neuroscience
+- Physics-informed models for learning and dynamics
+- Cryptography, linguistics, and symbolic representation
 
-All posts aim to balance intuition and citation — drawing from academic papers, system design, and experimental ideas.  
-Some posts are inspired by daily work in machine learning infrastructure and dynamic modeling, others by long-standing questions in philosophy of mind or symbolic systems.
+Each post aims to explore a specific project or idea grounded in academic literature, computational methods, and experimental reasoning. Some are inspired by day-to-day work in machine learning infrastructure and scientific computing, while others reflect deeper inquiries into theoretical neuroscience and the nature of cognition.
 
 ---
 
 ### Built with:
 - [Hugo](https://gohugo.io/) static site generator
-- [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme (lightweight, clean, and fast)
-- Deployed via GitHub Pages / Netlify
+- [PaperMod](https://github.com/adityatelange/hugo-PaperMod) theme
+- Deployed via GitHub Pages
 
 ---
 
 ### Disclaimer
-This site is currently in-progress.  
-Author and academic affiliations may be added later once posts are finalized.
+This site is currently under active development. Content will be published incrementally. Author and institutional affiliations will be updated as the site evolves.
 
 ---
