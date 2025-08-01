@@ -5,7 +5,7 @@ This is a personal and exploratory blog focused on themes at the intersection of
 ### Topics include:
 - Mathematical biology
 - Computational neuroscience
-- Physics-informed models
+- Physics-informed models and machine learning
 - Cryptography and linguistics
 
 Each post aims to explore a specific project or idea grounded in academic literature, computational methods, and experimental designs. Some are inspired by day-to-day work in machine learning infrastructure and scientific computing, while others reflect deeper inquiries into theoretical neuroscience and the nature of cognition.
