@@ -3,10 +3,10 @@
 This is a personal and exploratory blog focused on themes at the intersection of neuroscience, machine learning, and complex systems. It serves both as a thinking tool and as a professional portfolio, showcasing original ideas that bridge computational modeling with emerging questions in neuroscience and physics.
 
 ### Topics include:
-- Fractals, illusions, and multi-scale visual perception
-- Consciousness, emergence, and computational neuroscience
-- Physics-informed models for learning and dynamics
-- Cryptography, linguistics, and symbolic representation
+- Mathematical biology
+- Computational neuroscience
+- Physics-informed models
+- Cryptography and linguistics
 
 Each post aims to explore a specific project or idea grounded in academic literature, computational methods, and experimental designs. Some are inspired by day-to-day work in machine learning infrastructure and scientific computing, while others reflect deeper inquiries into theoretical neuroscience and the nature of cognition.
 
